@@ -1,0 +1,25 @@
+This is code for several methods from Numerical Analysis:
+
+Root Finding:
+	Bisection Method (nc)
+	Newton's Method (nc)
+	Secant Method (nc)
+
+Matrix Decompositions:
+	LU Factorization (nc)
+	QR Factorization (nc)
+	SVD FActorization (nc)
+
+Integral Quadratures:
+	Reimann Sums (nc)
+	Trapezoid Rule (nc)
+	Simpson's Rule (nc)
+	Gaussian Quadratures (nc)
+
+Optimization:
+
+Finite Difference Methods:
+
+Finite Element Methods:
+
+Finite Volume Methods:
