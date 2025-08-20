@@ -26,19 +26,11 @@ def Simp_sum(a,b,N):
 
 	summ *= dx/3.0
 
-#	summ = 0.0
-#	for i in range(0,N,2):
-#		summ = summ + func(x[i]) + 4*func((x[i]+x[i+1])/2.0) + func(x[i+1])
-#	summ = dx/3.0*summ
 	print(dx)
 	print(summ)
 
 a, b = 1, 23 # endpoints of interval
 N = 50 # number of rectangles
-#n = N + 1 # number of nodes in mesh
-
-
-# x = np.linspace(a,b,n)
 
 Simp_sum(a,b,N)
 
