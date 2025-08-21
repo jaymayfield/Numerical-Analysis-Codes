@@ -1,3 +1,0 @@
-I made this at home, and will open it in the office.
-This is now if the office, and I will open it at home.
-At home, I have Python 3.11.4
